@@ -236,7 +236,7 @@ Os demais diagramas (classes, atividades e DER) estão em [docs/03-modelagem.md]
 
 | Integrante | Função |
 |------------|--------|
-| [SEU NOME] | Product Owner, Scrum Master e Desenvolvedor |
+| GUILHERME GOTARDO SANTANA | Product Owner, Scrum Master e Desenvolvedor |
 
 ---
 
