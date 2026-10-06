@@ -12,7 +12,7 @@ O **PingFlow** é uma plataforma que **reduz o lag em jogos online**. Ele conect
 
 Este repositório documenta todo o ciclo de engenharia de software do produto: requisitos, modelagem, metodologia ágil, arquitetura, protótipo e testes. O foco do trabalho é o **processo**, por isso não há código-fonte implementado.
 
-**Autor:** [SEU NOME] · **Curso:** Análise e Desenvolvimento de Sistemas (ADS) · **Disciplina:** Engenharia de Software
+**Autor:** Guilherme Gotardo Santana · **Curso:** Análise e Desenvolvimento de Sistemas (ADS) · **Disciplina:** Engenharia de Software
 
 ---
 
