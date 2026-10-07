@@ -1,6 +1,6 @@
 # Metodologia Ágil
 
-O projeto adota **Scrum**, com o quadro **Kanban** do GitHub Projects para acompanhar o fluxo de trabalho.
+O projeto adota **Scrum**, organizado com **Issues** e **Milestones** do GitHub.
 
 ## 1. Papéis
 
@@ -82,8 +82,7 @@ O projeto adota **Scrum**, com o quadro **Kanban** do GitHub Projects para acomp
 
 | Elemento Scrum | Recurso do GitHub |
 |----------------|-------------------|
-| Product Backlog | GitHub Projects (coluna *Backlog*) |
+| Product Backlog | Issues abertas, sem Milestone |
 | Sprint | Milestone |
 | História / tarefa | Issue |
-| Quadro | Projects (Backlog, A fazer, Em andamento, Em revisão, Concluído) |
 | Entrega | Pull Request |
